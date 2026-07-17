@@ -4,7 +4,7 @@
 
 Building modern Android applications with **Kotlin**, **Jetpack Compose**, and scalable **multi-module architecture**.
 
-💼 **Open to Senior Android Engineer opportunities in Sydney**
+💼 **Open to Senior Android Engineer opportunities in Sydney (Permanent & Contract)**
 
 ---
 
