@@ -1,10 +1,10 @@
 ## <img src="https://github.com/user-attachments/assets/6a8baf30-5d86-4390-a38b-ce6cc8eb032b" width="42" /> Hi, I'm Oksana
 
-**Senior Android Engineer** • Sydney, Australia 🇦🇺
+**Android Software Engineer** • Sydney, Australia 🇦🇺
 
 Building modern Android applications with **Kotlin**, **Jetpack Compose**, and scalable **multi-module architecture**.
 
-💼 **Open to Senior Android Engineer opportunities in Sydney (Permanent & Contract) • Full work rights**
+💼 **Open to Android Software Engineer opportunities in Sydney (Permanent & Contract) • Full work rights**
 
 ---
 
